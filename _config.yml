@@ -1,3 +1,11 @@
 theme: jekyll-theme-merlot
 title: [- Example Repository project zer0 -]
+# Site settings
 description: [This is a sample repo of gh-pages for a project.]
+# Site settings
+username: Github ScorpionVT
+user_description: CS student
+
+# Build settings
+markdown: kramdown
+
